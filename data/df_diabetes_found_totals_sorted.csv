@@ -1,0 +1,17 @@
+symptom,total,symptom_str,symptom_importance
+polyuria,243,polyuria,1
+polydipsia,225,polydipsia,2
+weakness,218,weakness,3
+partial_paresis,192,partial_paresis,4
+polyphagia,189,polyphagia,5
+sudden_weight_loss,188,sudden_weight_loss,6
+age_over_47_point_5,181,age_over_47_point_5,7
+visual_blurring,175,visual_blurring,8
+itching,154,itching,9
+delayed_healing,153,delayed_healing,10
+is_male,147,is_male,11
+muscle_stiffness,135,muscle_stiffness,12
+irritability,110,irritability,13
+genital_thrush,83,genital_thrush,14
+alopecia,78,alopecia,15
+obesity,61,obesity,16
