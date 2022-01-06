@@ -1,5 +1,5 @@
 # Diabetes_Predictor
-## Diabetes Predictor based on Gradient Boosting Model on hospital questionnaire data
+## Diabetes Predictor based on Gradient Boosting Classifier Model on hospital questionnaire data
 
 Please see pdf file "Findings_Report" for information about the development of the model.
 
